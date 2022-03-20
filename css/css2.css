@@ -1,0 +1,105 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Roboto:wght@300;400;500;700&family=Supermercado+One&display=swap');
+
+/* first page */
+
+.first-Page {
+    background: #033B4A;
+    height: 728px;
+}
+
+#first-Head {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 72px;
+    color: #F3F3F3;
+    margin-top: 173px;
+}
+
+#first-Para {
+    color: #F3F3F3;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    margin-top: 61px;
+}
+
+.store {
+    margin-left: -340px;
+}
+
+.first-picture {
+    margin-top: 91px;
+}
+
+/* first page End */
+
+/* secons Page */
+
+.second-page {
+    background: #E5E5E5;
+    height: 728px;
+}
+
+.Group_87 {
+    margin-top: 169px;
+}
+
+.second-page-write h1 {
+    margin-top: 215px;
+    margin-bottom: 61px;
+    font-family: 'Roboto';
+    font-weight: Bold;
+    Font-size: 64px;
+    Line-height: 72px;
+    color: #033B4A;
+}
+
+.second-page-write p {
+    margin-bottom: 19px;
+    color: #033B4A;
+    line-height: 40px;
+    font-family: 'Roboto';
+    font-size: 24px;
+
+}
+
+/* secons Page End */
+
+/* fourth page */
+
+.fourth-page {
+    background: #E5E5E5;
+}
+
+.fourth-page-write {
+    font-family: 'Roboto';
+}
+
+.fourth-page-write-1 {
+    padding-left: 217.5px;
+    padding-top: 220px;
+}
+
+.fourth-page-write h4 {
+    font-weight: Bold;
+    Font-size: 32px;
+    Line-height: 40px;
+    color: #00D6A3;
+}
+
+.fourth-page-write p {
+    color: #303030;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.Group-88 {
+    margin-top: -250px;
+}
+
+/* fourth page End */

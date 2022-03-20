@@ -1,0 +1,231 @@
+@import url('https://fonts.googleapis.com/css2?family=Inspiration&family=Roboto:wght@300;400;500;700&family=Supermercado+One&display=swap');
+
+body{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+}
+
+/* navbar */
+
+.vaccine {
+    font-family: 'Supermercado One';
+}
+
+.nav-link {
+    margin-right: 25px;
+}
+
+.nav-link:hover {
+    border-bottom: 4px solid #00D6A3;
+    padding-bottom: 24px;
+    color: #00D6A3 !important;
+}
+
+.nav-link-color {
+    color: #303030 !important;
+    font-weight: 400 !important;
+    font-size: 16px !important;
+    font-family: 'Roboto' !important; 
+ }
+
+.btn-blue {
+    font-family: 'Roboto';
+    color: white;
+    background-color: rgba(0, 214, 163, 1);
+    border-radius: 8px;
+}
+
+/* navbar end */
+
+/* landing page */
+
+
+.landing-Page {
+    background-image: url('../images/Rectangle\ 3.png');
+    height: 650px;
+}
+
+.track {
+    color: rgba(255, 255, 255, 1);
+    margin-top: 132px;
+    font-family: 'Roboto'; 
+    font-weight: bold;
+    font-size: 64px;
+    line-height: 72px;
+}
+
+.medication {
+    margin-top: 32px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    color: #F3F3F3;
+}
+
+.container1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 8px 15px;
+    font-size: 14px;
+    height: 50px;
+    width: 150px;
+    border: none;
+    color: black;
+    margin: 0 50px;
+}
+
+.btn1 p {
+    margin-top: 18px;
+    line-height: 20px;
+}
+
+.playstore {
+    font-weight: bold;
+}
+/* landing page end */
+
+/* Page 1 */
+
+.page_1 {
+    padding-top: 220px;
+    padding-bottom: 96px;
+}
+
+.main_1 h4 {
+    color: #00D6A3;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+}
+
+.main_1 p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.main_1 p>span {
+    color: #033B4A;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+}
+/* Page 1 End*/
+
+/* Page 2 */
+
+.page_2 {
+    height: 1304px;
+    background-color: #033B4A;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    padding: 105px 0;
+    font-family: 'Roboto';
+}
+
+h2 {
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 32px;
+    color: #FFFFFF;
+    margin-bottom: 0;
+}
+
+.page2_p {
+    margin-top: 40px;
+    margin-bottom: 96px;
+    color: #F3F3F3;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+}
+
+.row-tracker h6 {
+    margin-top: 32px;
+    color: #00D6A3;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+}
+
+.row-tracker p {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 40px;
+    color: #F3F3F3;
+}
+
+/* Page 2 End */
+
+/* Page 3 */
+
+.page_3 {
+    background-image: url('../images/Vector4.png');
+    font-family: 'Roboto';
+    height: 765px;
+}
+
+.Review p {
+    color: #00D6A3;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 40px;
+    margin-top: 72px;
+    margin-bottom: 40px;
+}
+
+.Bamishe {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 48px;
+    color: #033B4A;
+    margin-top: 32px;
+} 
+
+.amet p {
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 48px;
+    color: #033B4A;
+}
+
+/* Page 3 End */
+
+/* Page4 */
+
+.page_4 {
+    font-family: 'Roboto';
+    background: #033B4A;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    height: 424px;
+}
+
+.get {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 64px;
+    color: #F3F3F3;
+    margin-top: 119px;
+    margin-bottom: 32px;
+}
+
+/* Page4 End */
